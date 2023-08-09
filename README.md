@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ovcharenko-di&badges=0&show-avatar=false"
-/>
 <!--
 **ovcharenko-di/ovcharenko-di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
